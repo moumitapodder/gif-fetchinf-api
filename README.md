@@ -1,2 +1,2 @@
 # gif-fetchinf-api
-The project is basically for API fetching gif .
+The project is based on api fetching gif,which will fetch yes or no gif from yesno.wtf 
